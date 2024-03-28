@@ -1,1 +1,2 @@
-the first Machine Learning model i made
+ML projects ive made
+
